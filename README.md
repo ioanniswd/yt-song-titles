@@ -27,7 +27,13 @@ $ cd yt-song-titles
 - Visit the YouTube [home page](www.youtube.com) with your browser and make sure you are logged in.
 - Open the console(Right click > Inspect or Ctrl+Shift+I).
 - Copy and paste the code found in `get_playlist_urls.js`.
-- Copy the output from the console and paste it as is, in a file named `playlist_urls` placed in the repo folder. This file is ignored by git as it is different for each user.
+- Copy the output from the console and paste it, in a file named `playlist_urls` placed in the repo folder. This file is ignored by git as it is different for each user. Here is an example of said file:
+./playlist_urls
+```
+"/playlist?list=DFfadfLH123huh2"
+"/playlist?list=HJh12433uhpHOPH"
+"/playlist?list=dfasdfHADFA3241"
+```
 - Execute the script which gets the song titles with: `$ ./update_song_lists.rb`. Make sure the file is executable.
 
 Et Voilà! A file named `all_song_titles_by_playlist_title.json` will be created in the repo folder, and it will contain all song titles, grouped by playlist title. The format is like the following:
