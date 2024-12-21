@@ -6,7 +6,7 @@ Is the video no longer available in your country?
 
 Do you find yourself unable to remember the name of that song that YouTube deleted without even telling you about it?
 
-Are you unwilling to download all playlists in your YouTube account just in case a video gets deleted and your never EVER find it again?
+Are you unwilling to download all playlists in your YouTube account just in case a video gets deleted and you never EVER find it again?
 
 
 #### Fear not! For the solution is here!
